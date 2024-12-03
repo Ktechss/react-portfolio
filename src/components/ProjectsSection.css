@@ -1,0 +1,48 @@
+/* src/ProjectsSection.css */
+#projects {
+
+    text-align: center;
+  }
+  
+  .section__text__p1 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .experience-details-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+  }
+  
+
+/* PROJECTS SECTION */
+
+#projects {
+    position: relative;
+  }
+  
+  .color-container {
+    border-color: rgb(163, 163, 163);
+    background: rgb(250, 250, 250);
+  }
+  
+  .project-img {
+    border-radius: 2rem;
+    width: 90%;
+    height: 90%;
+  }
+  
+  .project-title {
+    margin: 1rem;
+    color: black;
+  }
+  
+
+ 

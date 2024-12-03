@@ -1,0 +1,61 @@
+/* ABOUT SECTION */
+#about {
+    position: relative;
+  }
+  
+  .about-containers {
+    gap: 5rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+  }
+  
+  .about-details-container {
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .about-containers,
+  .about-details-container {
+    display: flex;
+  }
+  
+  .about-pic {
+    border-radius: 2rem;
+  }
+  
+  .arrow {
+    position: absolute;
+    right: -5rem;
+    bottom: 2.5rem;
+  }
+  
+  .details-container {
+    padding: 1.5rem;
+    flex: 1;
+    background: white;
+    border-radius: 2rem;
+    border: rgb(53, 53, 53) 0.1rem solid;
+    border-color: rgb(163, 163, 163);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .section-container {
+    gap: 4rem;
+    height: 80%;
+  }
+  
+  .about_section__pic-container {
+    height: 55vh;
+    width: 35vw;
+    margin: auto 0;
+    background-size:cover ;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+  }
+  
