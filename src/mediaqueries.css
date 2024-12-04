@@ -38,8 +38,8 @@
       margin: 0 5%;
     }
     .section__pic-container,.about_section__pic-container, .profile_section__pic-container  {
-      width: 275px;
-      height: 275px;
+      width: 45vw;
+      height: 45vh;
       margin: 0 auto 2rem;
     }
     .about-containers {
@@ -88,7 +88,7 @@
     }
     .section__pic-container, .about_section__pic-container, .profile_section__pic-container  {
       width: auto;
-      height: 46vw;
+      height: 100vw;
       justify-content: center;
     }
     .section__text__p2 {
@@ -99,5 +99,6 @@
     }
     .text-container {
       text-align: justify;
+      padding: 1.5vh;
     }
   }
